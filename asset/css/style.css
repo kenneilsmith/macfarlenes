@@ -17,7 +17,7 @@
 
 .container {
     /* width: 1200px; */
-    height: 250;
+    height: 250px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -70,7 +70,7 @@ nav ul li:hover {
     background: #4040c4;
     color: #fff;
     cursor: pointer;
-    font-size: 14px;
+    font-size: .9rem;
 }
 
 .btn:hover {
@@ -82,40 +82,40 @@ nav ul li:hover {
 
     height: 100vh;
     margin: auto;
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 .content h3 {
     color: #fff;
-    padding-top: 100px;
-    font-weight: 400;
+    padding-top: 6.25rem;
+    font-weight: 5rem;
 }
 
 .content h1 {
-    font-size: 80px;
+    font-size: 5rem;
     color: #f9f9f9;
-    margin-top: 20px;
-    line-height: 75px;
+    margin-top: 1.2rem;
+    line-height: 4.6rem;
 }
 
 .content p {
     color: #f9f9f9;
-    font-size: 16px;
-    margin-top: 30px;
-    line-height: 30px;
-    letter-spacing: 1px;
+    font-size: 1rem;
+    margin-top: 2rem;
+    line-height: 2rem;
+    letter-spacing: .06rem;
 }
 
 .content .btn {
-    margin-top: 20px;
-    width: 150px;
-    height: 50px;
-    font-size: 16px;
-    letter-spacing: 1px;
+    margin-top: 1.25rem;
+    width: 9rem;
+    height: 3.125rem;
+    font-size: 1rem;
+    letter-spacing: .06rem;
 
 }
 
 .content .btn2 {
 
-    margin-left: 10px;
+    margin-left: .7rem;
 }
